@@ -9,7 +9,7 @@ git clone https://github.com/cspi-git/privacytools.io
 
 NpmJS:
 ```
-npm i compression serve-index express path
+npm i compression express path
 ```
 
 ## Setup
